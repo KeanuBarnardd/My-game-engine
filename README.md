@@ -11,4 +11,6 @@ A learning project. The technology choices below may change as I learn.
 
 ## All learning resources I used + stuff I read that went towards the development of this engine
 
-- Add links here as I find resources.
+
+#### Intro 
+- Rough intro to making a game engine with C https://www.youtube.com/watch?v=teg23SJlyl8&list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj&index=2 
